@@ -1,0 +1,180 @@
+
+.container
+{   
+  box-shadow: 0 0 0.5em rgba(0,0,0,0.5);
+  background-color: #56390B;
+	padding: 0.5em;
+  width: 80%;
+  margin: 0 auto;
+}
+.cnaranja
+{  
+  border:solid;  
+  display: flex;
+  background-color: #E3960F;
+  padding: 0.5em;
+  height: 200px;
+  justify-content:flex-end;
+  align-items: center;
+}
+
+.cuadrito1
+{  
+
+  border:solid; 
+  background-color: #7CF2D8;
+  padding:2em;
+  height: 20px;
+  margin-right: 5em;
+  width: 2%; 
+
+}
+.cazul
+{
+  border:solid; 
+  background-color: #2491F7;
+  padding: 4em;
+  height: 200px;
+ 
+}
+.coscuro
+{
+  border:solid; 
+  background-color: #0B4B87;
+  padding: 5em;
+  height: 200px;
+   display: flex;
+  justify-content: center;
+}
+.cuadrito2
+{
+
+   border:solid; 
+  background-color: #FBED10;
+  padding:2em;
+  width: 30%; 
+  height: 50%;
+}
+.cverde
+{
+  border:solid;  
+  display: flex;
+  background-color:#0DF34E;
+  padding: 0.5em;
+  height: 200px;
+  justify-content: space-between;
+  align-items: center;
+}
+.cuadrito3
+{
+  border:solid; 
+  background-color: #FBED10;
+  padding:2em;
+  width: 20%; 
+  height: 30%;
+}
+.cnegro
+{
+ border:solid;  
+  display: flex;
+  background-color:black;
+  padding: 5em;
+  height: 200px;
+  justify-content: space-between;
+  align-items: center;
+}
+.cmorada
+{
+   border:solid; 
+  background-color: #A010FB;
+  padding:2em;
+  width: 80em; 
+  height: 150%;
+
+}
+.cmorada1
+{
+   border:solid; 
+  background-color: #A010FB;
+  padding:2em;
+  width: 80em; 
+  height: 150%;
+
+}
+.moradito
+{
+  border:solid; 
+  background-color:#F10EEE;
+  padding: 2em;
+  height: 30%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; 
+}
+.moradito1
+{
+  display: flex;
+  border:solid; 
+  background-color:#F10EEE;
+  padding: 2em;
+  height: 30%;
+  justify-content: space-between;
+  align-items: center;
+}
+.mora
+{
+   border:solid; 
+  background-color: #BF5AFF;
+  padding:2em;
+  height: 40%;
+  width: 80px;
+
+}
+.mora1
+{
+   border:solid; 
+  background-color: #BF5AFF;
+  padding:2em;
+  width: 80px; 
+  height: 40%;
+
+}
+.p
+{
+  display: flex;
+justify-content: center;
+align-items: center;
+  font-size: 15px;
+
+}
+.c
+{
+ width:110%; 
+  height: 125%;
+text-align: center; 
+}
+.p1
+{
+  display: flex;
+justify-content: center;
+align-items: center;
+  font-size: 40px;
+  padding: 1em;
+
+}
+.p2
+{
+  text-align: center;
+justify-content: center;
+align-items: center;
+  font-size: 25px;
+
+}
+.c2
+{
+  display: flex;
+  justify-content: center;
+ width:110px; 
+  height: 165%;
+
+}
